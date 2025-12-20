@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog #21 – EinTrickPony Capital</title>
+  <style>
+    body { margin:0; background:#0a0a0a; color:#eee; font-family: Georgia, serif; line-height:1.8; }
+    nav { background:#111; padding:18px 0; text-align:center; position:sticky; top:0; z-index:100; }
+    nav a { color:#ffd700; margin:0 30px; text-decoration:none; font-size:1.4em; font-weight:bold; }
+    nav a:hover { color:#00ff00; }
+    .container { max-width: 860px; margin: 0 auto; padding: 60px 20px; }
+    h1 { font-size: 3.8em; margin:30px 0 10px; color:#ffd700; text-align:center; }
+    .date { font-size:1.6em; text-align:center; color:#aaa; margin:20px 0 70px; font-style:italic; }
+    .post { font-size:1.45em; }
+    .post p { margin: 2.4em 0; text-align: justify; }
+    .highlight { color:#00ff00; font-weight:bold; }
+    .back { text-align:center; margin:120px 0 60px; }
+    .back a { color:#00ff00; font-size:1.4em; text-decoration:none; }
+    .back a:hover { text-decoration:underline; }
+    footer { margin-top:140px; padding:50px 20px 30px; text-align:center; font-size:0.95em; color:#666; border-top:1px solid #333; }
+    @media (max-width:700px) { h1 {font-size:2.8em;} .date {font-size:1.4em;} .post {font-size:1.3em;} nav a {display:block; margin:18px 0;} }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="/">Home</a>
+  <a href="/blog.html">Blog</a>
+  <a href="https://x.com/12roundclock" target="_blank">X</a>
+</nav>
+
+<div class="container">
+
+  <h1>Blog #21</h1>
+  <p class="date">20. Dezember 2025<br>Geduld führt zum Ziel</p>
+
+  <div class="post">
+
+    <p>Ok, gestern war eine Art Reset für mich. Das Wochenende oder gar Jahresende gehört der Reflexion.</p>
+
+    <p>Gestern stieg ORCL bis auf 8 %, CRWV auf sage und schreibe 23 %. Nun gut, sieht nach viel aus, aber es war nur ein Sprung aus dem tiefen Tal, wohin die beiden Aktien in den letzten Tagen geworfen worden waren. Auf dem EinTrickPony-Depot hatte ich im Kurssturz auf 200 Aktien CRWV aufgestockt, um für den Rebound einen besseren Schnitt zu haben. Fühlte sich natürlich nicht gut an, als CRWV noch weiter fiel. Gestern dann die Erlösung. Bei 14 % war ich 130 € über Break-Even, also verkaufte ich die Hälfte, um den Überhang zu korrigieren. Mein Depot war zu sehr dem AI-Datencenter-FUD ausgeliefert. Jetzt ist es wieder mehr oder weniger in Waage.</p>
+
+    <p>Klar, hätte ich die volle Position noch etwas behalten, wäre ich bei +1800 € gelandet statt +900 € für meine verbliebenen 100 Aktien, aber so be it. Bei 14 % eine Position zu stutzen, die ohnehin größer war als man wollte, scheint mir nur rational zu sein. Wer kann denn ahnen, dass es nochmal fast 10 % am selben Tag hoch geht?</p>
+
+    <p>Dadurch, dass auch ORCL einen Push hatte und NOVO einen Rebound hatte, kam ich auf dem EinTrickPony-Depot fast zurück aufs ATH, d.h. 3700 € für den Tag.</p>
+
+    <p>Auf dem privaten Depot kam ich auf knapp 2000 € Profit für den Tag, weil ich A meine ORCL- und HOOD-Calls bereits in der Vorbörse verkaufte, B NVDA beim ersten Push nach Börseneröffnung verkaufte, C keinen Wiedereinstieg fand, weil nichts tief genug für mich droppte. Schade, denn HOOD fiel leicht unterhalb meines Verkaufspreises und ging dann steil. In den letzten Tagen ist mir diese Ungeduld jedoch zum Verhängnis geworden, deswegen wartete ich diesmal länger. Typisch.</p>
+
+    <p>Stattdessen kaufte ich 500 Put ORCL, weil ich auch da einen Drop im Run vermutete. Kam auch, aber reichte nur, um meine Put von -190 € auf Null zurückzubringen. TSLA fiel von 490 $ auf 480 $ auf unter 475 $, brachte mir aber nur 100 €, also hielt ich. TSLA erholte sich und somit Plus-Minus-Null. Vielleicht kommt nächste Woche ein ernsthafterer Drop.</p>
+
+    <p>War allerdings bezeichnend, dass sich TSLA die letzten Tage asynchron verhielt – als AI unten war, ging TSLA steil und gestern genau umgekehrt. Obwohl die Bewegung von TSLA größtenteils AI geschuldet sein soll. Wobei ich mich da frage, was die hohe Bewertung der letzten Jahre, allen voran 2021 rechtfertigte? Meines Erachtens ist es einfach der Hype um Elon Musk. Und wenn genug künstliches Geld in den Markt gepumpt wird, blähen sich alle Meme-Stocks auf.</p>
+
+    <p>Wie auch immer, am wichtigsten war mir gestern, den Tag hinsichtlich des privaten Depots nicht zu verkacken, also blieb ich bis auf die beiden kleinen Puts flat. Ne, stimmt nicht, ich kaufte noch 100 Aktien Aduro für süße 950 €. Das Ding war nämlich über 10 % unten. Motiv war, in die Aktie mit jedem weiteren Drop rein zu scalen. Ich rechnete also damit, dass es weiter fällt und gehe mal weiter davon aus, auch wenn ich gestern bereits 6–7 % Plus machte. Dabei sein ist erstmal alles, kann im Hintergrund laufen.</p>
+
+    <p>Verkackt habe ich es jedenfalls nicht mehr. Mit den Puts passierte nicht mehr viel, ORCL Put schloss mit -88 €, TSLA Put mit -11 €. Da stehe ich nun bei -32k, was für mich ein idealer Ausgangspunkt war, um mein Reset zu starten. Ja, ich hätte locker auf -31k stehen können, aber hey, indem ich allein in den letzten 2 Handelstagen 4k zurückholte, sind die 2k bis unter die -30k viel kleiner geworden.</p>
+
+    <p>Ich habe mir insbesondere in der letzten Woche bewiesen, dass ich es kann, nur sollte ich vermeiden, mich mit Aktien auf bestimmte Namen festzunageln. Im privaten Depot muss ich agil und effizient sein. Mehr noch: ich muss warten, bis das Geld auf der Straße liegt und nur noch aufgehoben werden will. Den Leidensweg dahin kann ich mir sparen, wenn ich nur geduldig bleibe. Das perfekte Setup kommt auch, wenn ich den Aufbau nicht mit meinem Kapital begleite, sondern alleine mit meiner Beobachtung. Klar, das habe ich mir schon früher gesagt, aber mal wieder wirkt es nun so, als wäre in mir ein Schalter umgelegt worden. Dass ich jetzt noch bei -32k stehe liegt an den Aktien, die ich gehalten habe, nicht an den Optionen. In der letzten Woche habe ich mit keine einzigen Option Verlust gemacht, sondern nur Profit. Und ich meine sogar, dass sich dies sogar über die letzten zwei Wochen erstreckt. Es gibt zumindest keine Schmerzerinnerung im Zusammenhang mit einer Option, nur die Aktien von MSTR und ORCL. Und das ist wohl der Grund, dass der Schalter umgelegt wurde.</p>
+
+    <p>Gleichzeitig wäre ich nicht dahergekommen, hätte ich die Aktien nicht gehalten, was mich irgendwann zur Handlung trieb, um die Verluste durch Optionen wegzutraden. Die -32k wirkt nun nur wie eine Zahl, nicht mehr wie eine Barriere aus Granit. Ein paar gute Trades und ich bin unter -30k. Und diese guten Trades gelangen mir in den letzten zwei Wochen dadurch, dass ich auch über Nacht oder mehrere Tage meine Optionen gehalten habe, nicht wie im August, wo ich sehr kapitalintensiv agierte, um möglichst jeden Tag im Plus zu schließen. Manchmal endete ich sogar mit 30k in einer sehr volatilen Option, weil ich den anfänglichen Verlust von ein paar Hundert Euro retten wollte. Das war offensichtlich nicht nachhaltig. Nun kann ich viel kapiteleffizienter arbeiten, indem ich einfach halte, wenn es am selben Tag nicht klappt. Ungeduld killt Depots.</p>
+
+    <p>Das Ziel für 2026 ist somit offensichtlich: Primär das private Depot zurück in die schwarzen Zahlen führen, um es dann weiter wachsen zu lassen. Das EinTrickPony soll auch im nächsten Jahr mindestens 40 % erwirtschaften, denn das ist der Schnitt, der mir erlaubt, zum Jahresende 2026 eine Tantieme auszuzahlen, die meine Fixkosten in 2027 decken würde. Falls ich diese Tantieme überhaupt brauche, da ich intendiere, dass mein privates Depot ausreichend Cashflow generiert, um davon leben zu können, damit ich dies nicht mit meinem Handwerksbetrieb erwirtschaften muss. Allerdings will ich meinem Depot auch nicht das Kapital entziehen, wenn ich frisches Geld ohne großen Aufwand physisch generieren kann. Klar ist es mein Ziel, den Handwerksbetrieb 2027 nicht mehr zu benötigen, um regional unabhängig zu sein, aber das Netz ist wichtig für mein Mental Game. Ich war ja schon derart naiv, dass ich dachte, den Betrieb 2026 nicht mehr zu benötigen. In Kombi mit meiner Siegesserie vom August kam die Selbstsicherheit. Bis ich erkennen musste, wie fragil mein System war. Das führte zu einer Art Schock, dessen Zustand mich zu noch massiveren Fehlern trieb. Am Ende kann ich froh sein, dass ich so früh auf die Schnauze geflogen bin und nicht schon alle finanziellen Brücken verbrannt habe. Den Stressfaktor einer heftigen Verlustserie ohne die Möglichkeit, den Lebensunterhalt mit einem realen Job zu sichern, kann ich mir gar nicht ausmalen.</p>
+
+    <p>Wie eingangs erwähnt, setzt nun die Zeit der Reflexion ein, und zum ersten Mal seit August scheint mich das Wochenende nicht zu quälen. Sonst könnte ich den Stillstand von Freitag 22 Uhr bis Montag 8 Uhr kaum aushalten. Jetzt ist es okay, ich habe die Woche oder sogar den Monat trotz heftiger Drawdowns flat beendet und wieder enorm viel über den Markt und mich selbst gelernt. Vor allem habe ich keine heftigen Positionen laufen, die mich auf eine gewisse Entwicklung am Montag hoffen lassen. Ich bin bereit für das, was kommt. Zum Glück, denn sonst hätte mich die verkürzte Handelswoche wohl in den Wahnsinn getrieben.</p>
+
+    <p><strong>Meine Aufstellung:</strong></p>
+
+    <p><strong>Privates Depot (Trade Republic, -31,9k):</strong> 500 Put TSLA (460 USD April 26), 500 Put-K.O. ORCL (222 USD)</p>
+
+    <p><strong>Geschäftliches EinTrickPony-Depot (IBKR, YTD 37,01 %, Sharpe-Ratio 1,02):</strong> 100 ORCL, 200 CRWV, 100 NOVO, 100 NFLX</p>
+
+    <p><strong>Disclaimer:</strong> Keine Finanzberatung – nur mein öffentliches Trading-Journal.</p>
+
+    <p class="back">← <a href="/blog.html">Zurück zum Blog</a></p>
+
+  </div>
+
+  <footer>
+    EinTrickPony Capital – Family Office mit genau einem Trick.<br>
+    © 2025
+  </footer>
+</div>
+
+</body>
+</html>
